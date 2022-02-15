@@ -45,15 +45,17 @@
   
   /* Main content */
   .main {
-    background-image: conic-gradient(aquamarine, lightblue);
+    
     padding: 16px;
     margin-top: 30px;
     height: 1500px;
   }
 
-
+  .home{
+    background-image: conic-gradient(aquamarine, lightblue);
+  }
   /* Image Container */
   .image-container {
-      background-image: "images/sound.svg";
+      background-image: url(images/sound.svg);
       text-align: right;
   }
