@@ -58,5 +58,8 @@
   .image-container {
       background-blend-mode: normal;
       background-image: (linear-gradient(aquamarine, lightblue), url(images/sound.svg));
+      background-size: cover;
+      height:fit-content;
+      width:fit-content;
       text-align: right;
   }
