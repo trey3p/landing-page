@@ -39,3 +39,9 @@
     margin-top: 30px;
     height: 1500px;
   }
+
+
+  /* Image Container */
+  .image-container {
+      right: 0;
+  }
