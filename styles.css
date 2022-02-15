@@ -1,4 +1,14 @@
  
+ @font-face {
+    font-family: 'LaBelleAurore';
+    src: url('fonts/LaBelleAurore.svg') format('svg'),
+         url('fonts/LaBelleAurore.ttf') format('truetype'),
+         url('fonts/LaBelleAurore.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+ 
+ 
  body {
     margin: 0;
     padding: 0;
