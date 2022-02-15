@@ -52,10 +52,11 @@
   }
 
   .home{
-    background-image: conic-gradient(aquamarine, lightblue);
+    background-image: aquamarine;
   }
   /* Image Container */
   .image-container {
-      background-image: url(images/sound.svg);
+      background-blend-mode: normal;
+      background-image: (linear-gradient(aquamarine, lightblue), url(images/sound.svg));
       text-align: right;
   }
