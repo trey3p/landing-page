@@ -56,10 +56,11 @@
   }
   /* Image Container */
   .image-container {
-      background-blend-mode: normal;
+    
       background-image: (linear-gradient(aquamarine, lightblue), url(images/sound.svg));
+      background-color: black;
       background-size: cover;
-      height:fit-content;
-      width:fit-content;
+      height:400px;
+      width:1200px;
       text-align: right;
   }
