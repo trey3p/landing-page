@@ -49,7 +49,6 @@
     background-image: linear-gradient(aquamarine, lightblue);
     padding: 16px;
     margin-top: 30px;
-    height: 1500px;
   }
 
   .home{
@@ -60,8 +59,7 @@
       background-image: url(images/sound.svg);
       background-color: black;
       background-size: cover;
-      height:400px;
-      width:1200px;
-      margin:0;
-      
+      background-repeat:no-repeat;
+      background-position:center center;
+      padding:0;
   }
