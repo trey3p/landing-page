@@ -12,7 +12,7 @@
  body {
     margin: 0;
     padding: 0;
-    background-color: aquamarine;
+    
 }
  
  /* The navigation bar */
@@ -52,12 +52,12 @@
   }
 
   .home{
-    background-image: aquamarine;
+    background-color: aquamarine;
   }
   /* Image Container */
   .image-container {
-    
-      background-image: (linear-gradient(aquamarine, lightblue), url(images/sound.svg));
+      background-image: linear-gradient(aquamarine, lightblue), 
+                        url(images/sound.svg);
       background-color: black;
       background-size: cover;
       height:400px;
