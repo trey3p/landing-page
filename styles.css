@@ -52,4 +52,6 @@
   }
 
   /* Image Container */
- 
+ .image-container{
+   text-align: right;
+ }
