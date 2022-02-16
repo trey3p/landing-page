@@ -51,15 +51,5 @@
     margin-top: 30px;
   }
 
-  .home{
-    background-color: aquamarine;
-  }
   /* Image Container */
-  .image-container {
-      background-image: url(images/sound.svg);
-      background-color: black;
-      background-size: cover;
-      background-repeat:no-repeat;
-      background-position:center center;
-      padding:0;
-  }
+ 
