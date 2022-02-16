@@ -46,7 +46,7 @@
   
   /* Main content */
   .main {
-    background-color: linear-gradient(aquamarine, lightblue);
+    background-color: linear-image(aquamarine, lightblue);
     padding: 16px;
     margin-top: 30px;
     height: 1500px;
