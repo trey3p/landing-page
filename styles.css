@@ -45,7 +45,8 @@
   
   /* Main content */
   .main {
-    
+
+    background-color: aqua;
     padding: 16px;
     margin-top: 30px;
     height: 1500px;
@@ -62,5 +63,5 @@
       background-size: cover;
       height:400px;
       width:1200px;
-      text-align: right;
+      
   }
