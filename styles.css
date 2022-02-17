@@ -14,7 +14,7 @@
   
  
  body {
-    background-color: aqua;
+    background-image: linear-gradient(aquamarine, lightblue);
     
 }
  
@@ -47,15 +47,14 @@
   }
   
   /* Main content */
-  .main {
+  /* .main {
     background-image: linear-gradient(aquamarine, lightblue);
     padding: 16px;
     margin-top: 30px;
     width: 100%;
-  }
+  } */
 
 .home{
-  background-image: linear-gradient(aquamarine, lightblue);
   padding: 16px;
   margin-top: 30px;
   width: 100%;
