@@ -45,6 +45,10 @@
     background: #ddd;
     color: black;
   }
+
+  .navbar-logo{
+    text-align: left;
+  }
   
   /* Main content */
   /* .main {
