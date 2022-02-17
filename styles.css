@@ -55,6 +55,10 @@
   }
 
 .home{
+  background-image: linear-gradient(aquamarine, lightblue);
+  padding: 16px;
+  margin-top: 30px;
+  width: 100%;
   clear:both;
 }
 
