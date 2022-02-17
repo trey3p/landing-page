@@ -67,8 +67,10 @@
   float: left;
   width: 33.33%;
   padding: 10px;
+}
 
-
+.row{
+  clear: both;
 }
 
 /* Clear floats after the columns */
