@@ -15,8 +15,6 @@
  
  body {
     background-color: aqua;
-    margin: 0;
-    padding: 0;
     
 }
  
@@ -66,9 +64,6 @@
 
 }
 
-.row{
-  width:100%;
-}
 /* Clear floats after the columns */
 .row:after {
   content: "";
