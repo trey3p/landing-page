@@ -26,10 +26,11 @@
   text-align: center;
   background: #1abc9c;
   font-size: 30px;
+  clear: both;
 }
 
 /* Page Content */
-.content {padding:20px;}
+.content {padding:20px;}*
  
  /* The navigation bar */
  .navbar {
@@ -227,7 +228,7 @@
 }
 
 /* The actual content */
-.content {
+.timeline-content {
   padding: 20px 30px;
   background-color: white;
   position: relative;
