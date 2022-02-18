@@ -18,6 +18,11 @@
     margin:0;
     font-family: Arial;
 }
+iframe{
+  width: 50%;
+  margin-right: 0px;
+}
+
 
 /* HEADER STYLING */
 /* Header/Logo Title */
