@@ -16,7 +16,21 @@
  body {
     background-image: linear-gradient(aquamarine, lightblue);
     margin:0;
+    font-family: Arial;
 }
+
+/* HEADER STYLING */
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+/* Page Content */
+.content {padding:20px;}
  
  /* The navigation bar */
  .navbar {
